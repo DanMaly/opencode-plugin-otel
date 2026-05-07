@@ -6,6 +6,13 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and 
 
 ---
 
+## [0.10.0](https://github.com/DEVtheOPS/opencode-plugin-otel/compare/v0.9.0...v0.10.0) (2026-05-07)
+
+
+### Features
+
+* **otel:** prewarm dynamic OTLP headers helper ([6f62b8b](https://github.com/DEVtheOPS/opencode-plugin-otel/commit/6f62b8bc03382c2d451d0538d72dffb44757b16c))
+
 ## [0.9.0](https://github.com/DEVtheOPS/opencode-plugin-otel/compare/v0.8.0...v0.9.0) (2026-05-01)
 
 
